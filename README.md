@@ -1,18 +1,23 @@
-## Getting Started
+## Aula 14/06
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplicação em java da aula 14/06 de Linguagem de Programação 2
 
-## Folder Structure
+## Tecnologias Utilizadas
 
-The workspace contains two folders by default, where:
+- Java
+- .NET 6
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Uso
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Para testar a aplicação, utilize o seguinte comando:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+`https://github.com/giovanna-alves-de-farias/LP2.git`
 
-## Dependency Management
+## Desenvolvedoras
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Ana Carolina de Freitas Neves (SP3044271)
+- Camila de Jesus Siqueira (SP3045064)
+- Diana Araujo da Silva (SP304422X)
+- Giovanna Alves de Farias (SP3048292)
+- Suzan Lívia Gonçalves Queiroz (SP3045111)
+- Mayara Santos Pereira Tavares (SP3027499)
